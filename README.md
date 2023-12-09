@@ -5,6 +5,4 @@
 - *EV-SAA.html* illustrates how to use the above data file by solving a sample average approximation (SAA) problem using Python with Mosek fusion API.
 - *readme.pdf* includes some details of the SAA problem in the numerical experiments.
 
-We plan to utilize the Python package *rsome* (https://xiongpengnus.github.io/rsome/) to showcase the numerical experiments detailed in the paper. You are welcome take 
-
  
