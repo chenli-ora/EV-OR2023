@@ -1,4 +1,3 @@
-# Readme for Data Files - "An Exponential Cone Programming Approach for Managing Electric Vehicle Charging"
 
 This repository contains essential data files to facilitate the numerical replication of the paper titled "An Exponential Cone Programming Approach for Managing Electric Vehicle Charging" by Li Chen, Long He, and Yangfang (Helen) Zhou (2023), published in Operations Research.
 
