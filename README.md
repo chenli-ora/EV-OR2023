@@ -16,7 +16,7 @@ Li Chen, Long He, Yangfang (Helen) Zhou (2023) An Exponential Cone Programming A
    - This PDF document includes detailed information about the SAA problem and its specifics within the context of the numerical experiments conducted in the paper.
      
 4. **EVECP-COPT.ipynb**
-   - This jupyter notebook includes a sample python code (using RSOME and COPT) for comparing the ECP and SAA in the paper. It was illustrated in the COPT online lecture "RSOME + COPT: Using Exponential Cones in Robust Optimization: [https://coridm.d2d.ai/lecture/70 Recording in Chinese] [https://chenli-ora.github.io/docs/talk_slides/COPT.pdf Slides in English]
+   - This jupyter notebook includes a sample python code (using RSOME and COPT) for comparing the ECP and SAA in the paper. It was illustrated in the COPT online lecture "RSOME + COPT: Using Exponential Cones in Robust Optimization" [Recording in Chinese](https://coridm.d2d.ai/lecture/70) [Slides in English](https://chenli-ora.github.io/docs/talk_slides/COPT.pdf)
 
 Feel free to explore and use these resources for replicating the numerical experiments outlined in the paper. If you encounter any issues or have questions, please refer to the paper for additional guidance or contact the authors directly.
 
